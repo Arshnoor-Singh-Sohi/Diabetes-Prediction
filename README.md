@@ -1,6 +1,6 @@
 # Diabetes Prediction System
 
-![Diabetes Prediction Banner](https://i.imgur.com/AeQX9tJ.png)
+
 
 ## 📋 Table of Contents
 - [Overview](#overview)
@@ -35,7 +35,7 @@ This project implements a machine learning-based solution that:
 
 ## 🎬 Demo
 
-![Application Demo](https://i.imgur.com/Gqv1fNm.png)
+
 
 The web application allows users to input health parameters such as:
 - Number of pregnancies (for female patients)
@@ -82,13 +82,11 @@ Class distribution: 65.1% Non-diabetic (0), 34.9% Diabetic (1)
 
 Here's a visualization of the dataset showing the distribution of features:
 
-![Feature Distribution](https://i.imgur.com/sZeUDXg.png)
 
 ## 🏗️ Project Architecture
 
 The project follows a client-server architecture with the following components:
 
-![Project Architecture](https://i.imgur.com/RWYMc1k.png)
 
 ### 1. Data Preprocessing and Model Training
 
@@ -120,7 +118,6 @@ The prediction workflow follows these steps:
 
 The machine learning pipeline consists of several stages:
 
-![ML Pipeline](https://i.imgur.com/iM1JfBm.png)
 
 ### 1. Data Exploration and Preparation
 
@@ -181,7 +178,7 @@ The model achieved the following performance metrics on the test dataset:
 
 The confusion matrix provides a detailed breakdown of the model's predictions:
 
-![Confusion Matrix](https://i.imgur.com/7JLZNe0.png)
+
 
 ```
 Confusion Matrix:
@@ -496,7 +493,7 @@ Understanding which features have the most significant impact on the prediction 
 
 The following chart shows the relative importance of each feature in the prediction model:
 
-![Feature Importance](https://i.imgur.com/q5uMx8g.png)
+
 
 Based on the model, the features with the highest impact on diabetes prediction are:
 
